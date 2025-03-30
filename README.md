@@ -10,7 +10,7 @@ Welcome to **Animated Template**, a sleek and modern Tailwind CSS template enhan
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Animated-Template.git
+   git clone https://github.com/Khairul25556/animated-template.git
    ```
 2. Navigate to the project folder:
    ```sh
